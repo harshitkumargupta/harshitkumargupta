@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Harshit Kumar  
 
-🎓 **B.Tech CSE (3rd Year)**  
-💻 **Java & Flutter Developer | Android Enthusiast | ML Learner**  
-🚀 Passionate about **Building Apps, Problem Solving & Open Source**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+3rd+Year;Java+%26+Flutter+Developer;Android+Enthusiast;Machine+Learning+Learner;Problem+Solver+%7C+Open+Source+Lover)](https://git.io/typing-svg)
 
 ---
 
@@ -38,10 +36,13 @@
 ---
 
 ## 🌟 Featured Projects  
-- 🎮 [BizFlow Project](https://github.com/harshitkumargupta/Bizflow-Project) – Business Management App  
-- 📱 Healthy Habit Tracker – Android App for daily habits & mood  
-- 🌐 3D Portfolio Website – Built with React + Three.js  
-- 🤖 CodeMate – Duolingo for Coding (Gamified coding platform)  
+
+| Project | Description | Tech Used |
+|---------|-------------|-----------|
+| 🎮 [BizFlow Project](https://github.com/harshitkumargupta/Bizflow-Project) | Business Management App | Java, MySQL |
+| 📱 Healthy Habit Tracker | Android App for daily habits & mood | Java, SQLite |
+| 🌐 3D Portfolio Website | Personal portfolio with React + Three.js | React, Three.js |
+| 🤖 CodeMate | Gamified platform – Duolingo for Coding | Java, Flutter |
 
 ---
 
@@ -67,11 +68,17 @@
 ---
 
 ## 🌐 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-gupta-067899299/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/harshitkumargup2)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshitkumar20)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/harshit_gupta04/)  
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitkumargupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 ✨ *“Code. Build. Learn. Share. Repeat.”* ✨  
 
