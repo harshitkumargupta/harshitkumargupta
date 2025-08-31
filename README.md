@@ -1,35 +1,77 @@
-# Hi 👋, I'm Harshit Kumar
-🎓 B.Tech CSE (3rd Year) | 💻 Android & Web Developer | 🚀 Machine Learning Enthusiast  
+# 👋 Hi, I'm Harshit Kumar  
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+🎓 **B.Tech CSE (3rd Year)**  
+💻 **Java & Flutter Developer | Android Enthusiast | ML Learner**  
+🚀 Passionate about **Building Apps, Problem Solving & Open Source**  
 
-## 🚀 About Me
-- 🌱 Currently learning **Machine Learning & DSA**
-- 💻 Building projects in **Android (Java/Kotlin) & React.js**
-- 🎯 Goal: To become a **Software Engineer** and crack **SSC Exams**
-- ⚡ Fun fact: I love teaching what I learn 🤝
+---
 
-## 🛠️ Skills
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+## 🚀 About Me  
+- 🌱 Currently exploring **Machine Learning** & **Data Structures & Algorithms**  
+- 💻 Developing cross-platform apps using **Java + Flutter**  
+- 📱 Experienced in **Android App Development (Java/Kotlin)**  
+- 🎯 Goal: To become a **Software Engineer** & crack **SSC Exams**  
+- ⚡ Fun fact: I love teaching what I learn 🤝  
 
-## 🌟 Projects
-- [BIZFLOW]([https://github.com/yourusername/codemate](https://github.com/harshitkumargupta/Bizflow-Project)) 🎮    
+---
 
+## 🛠️ Tech Stack  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=radical)  
+**Languages:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshitkumargupta&theme=radical&hide_border=false)  
+**Frameworks & Tools:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 
-![Total Contributions](https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=radical)
+**Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
+---
 
+## 🌟 Featured Projects  
+- 🎮 [BizFlow Project](https://github.com/harshitkumargupta/Bizflow-Project) – Business Management App  
+- 📱 Healthy Habit Tracker – Android App for daily habits & mood  
+- 🌐 3D Portfolio Website – Built with React + Three.js  
+- 🤖 CodeMate – Duolingo for Coding (Gamified coding platform)  
 
-## 🌐 Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/harshit-kumar-gupta-067899299/))
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]([https://www.hackerrank.com/yourid](https://www.hackerrank.com/profile/harshitkumargup2))
-[![Codeforces](https://img.shields.io/badge/Codeforces-orange?style=for-the-badge&logo=codeforces)]([https://codeforces.com/profile/yourid](https://codeforces.com/profile/harshitkumar20))
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode)]([https://leetcode.com/yourid](https://leetcode.com/u/harshit_gupta04/))
+---
+
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumargupta&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=tokyonight&hide_border=true" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitkumargupta&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kumar-gupta-067899299/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/harshitkumargup2)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-FF6F00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshitkumar20)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/harshit_gupta04/)  
+
+---
+✨ *“Code. Build. Learn. Share. Repeat.”* ✨  
+
