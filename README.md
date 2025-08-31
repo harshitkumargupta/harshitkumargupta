@@ -12,22 +12,6 @@
 - ⚡ Fun fact: I love teaching what I learn 🤝  
 
 ---
-[![Awesome Badge](https://img.shields.io/badge/Awesome-Yes-brightgreen)](https://github.com)
-[![Hackathon Winner](https://img.shields.io/badge/Hackathon-Winner-blue)](https://github.com)
-[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=harshitkumargupta.readme)](https://github.com/harshitkumargupta)
-
-
-## 🏆 Hacktoberfest Achievement  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024-successfully%20completed-FF69B4?style=for-the-badge&logo=hackaday&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pGr3UPrV--/c_limit,f_auto,fl_progressive,q_80,w_900/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8wo6bqnpwqjrs6w6m0xg.png" width="500"/>
-</p>
-
----
 
 ## 🛠️ Tech Stack  
 
