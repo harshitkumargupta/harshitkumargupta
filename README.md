@@ -20,11 +20,11 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=false)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshitkumargupta&theme=radical&hide_border=false)  
 
-![Total Contributions](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical)
+![Total Contributions](https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=radical)
 
 
 
