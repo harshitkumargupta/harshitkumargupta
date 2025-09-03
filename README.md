@@ -10,28 +10,25 @@
 - 📱 Experienced in **Android App Development (Java/Kotlin)**  
 - 🎯 Aspiring **Software Engineer** | Preparing for **SSC Exams**  
 - ⚡ Fun fact: I love teaching what I learn 🤝  
-- 🏆 Participated in **Hackathons & Open-Source Projects**  
+- 🏆 Hackathon Participant & Open-Source Contributor  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 **Languages:**  
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 **Frameworks & Tools:**  
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 
 **Databases & Tools:**  
-
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -50,23 +47,24 @@
 
 ---
 
-## 📊 GitHub Analytics  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumargupta&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=tokyonight&hide_border=true" height="180em" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitkumargupta&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark" />
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -77,7 +75,7 @@
 
 - 🌟 5⭐ in Problem Solving on **HackerRank**  
 - 🔥 Active on **LeetCode & Codeforces**  
-- 🏆 Hackathon Participant – Built **Healthy Habit Tracker App**  
+- 🏆 Hackathon Project – Built **Healthy Habit Tracker App**  
 
 ---
 
@@ -93,5 +91,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshitkumargupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/harshitkumargupta/harshitkumargupta/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ✨ *“Code. Build. Learn. Share. Repeat.”* ✨
