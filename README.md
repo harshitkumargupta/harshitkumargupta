@@ -50,20 +50,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-  
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumargupta&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=1E90FF&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180em" />
 </p>
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark&hide_border=true" />
 </p>
 
