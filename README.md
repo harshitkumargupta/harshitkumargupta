@@ -62,7 +62,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark&hide_border=true" />
 </p>
 
----
+----
 
 ## 🏅 Achievements & Badges  
 
@@ -72,7 +72,7 @@
 - 🔥 Active on **LeetCode & Codeforces**  
 - 🏆 Hackathon Project – Built **Healthy Habit Tracker App**  
 
----
+----
 
 ## 🌐 Connect with Me  
 
