@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+3rd+Year;Java+%26+Flutter+Developer;Android+Enthusiast;Machine+Learning+Learner;Problem+Solver+%7C+Open+Source+Lover)](https://git.io/typing-svg)
 
----
+----
 
 ## 🚀 About Me  
 - 🌱 Currently exploring **Machine Learning** & **Data Structures & Algorithms**  
