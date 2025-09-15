@@ -7,7 +7,7 @@
 - 🌱 Currently exploring **Machine Learning** & **Data Structures & Algorithms**  
 - 💻 Building cross-platform apps using **Java + Flutter**  
 - 📱 Experienced in **Android App Development (Java/Kotlin)**  
-- 🎯 Aspiring **Software Engineer** | Preparing for **SSC Exams**  
+- 🎯 Aspiring **Software Engineer**
 - ⚡ Fun fact: I love teaching what I learn 🤝  
 - 🏆 Hackathon Participant & Open-Source Contributor  
 
