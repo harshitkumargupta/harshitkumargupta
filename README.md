@@ -1,19 +1,10 @@
 # 👋 Hi, I'm Harshit Kumar Gupta  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+3rd+Year;Java+%26+Flutter+Developer;Android+Enthusiast;Machine+Learning+Learner;Problem+Solver+%7C+Open+Source+Lover)](https://git.io/typing-svg)
-
---
-
-## 🚀 About Me  
-- 🌱 Currently exploring **Machine Learning** & **Data Structures & Algorithms**  
-- 💻 Building cross-platform apps using **Java + Flutter**  
-- 📱 Experienced in **Android App Development (Java/Kotlin)**  
-- 🎯 Aspiring **Software Engineer**
-- ⚡ Fun fact: I love teaching what I learn 🤝  
-- 🏆 Hackathon Participant & Open-Source Contributor  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧑‍💻 TECH.STACK()  
 
 ### Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -27,7 +18,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 
-### Databases & Tools  
+### Databases & Platforms  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -35,18 +26,7 @@
 
 ---
 
-## 🌟 Featured Projects  
-
-| 🚀 Project | 📝 Description                      | 🛠 Tech Used          |
-|------------|-----------------------------------|----------------------|
-| 🎮 [BizFlow Project](https://github.com/harshitkumargupta/Bizflow-Project)          | Business Management App             | Java, MySQL            |
-| 📱 Healthy Habit Tracker          | Android App for daily habits & mood | Java, SQLite           |
-| 🌐 3D Portfolio Website           | Interactive portfolio with React + Three.js | React, Three.js        |
-| 🤖 CodeMate                      | Gamified platform – Duolingo for Coding | Java, Flutter          |
-
----
-
-## 📊 GitHub Stats  
+## 📊 STATS.DASHBOARD()  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
@@ -60,6 +40,17 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark&hide_border=true" />
 </p>
+
+---
+
+## 🚀 Featured Projects  
+
+| 🚀 Project | 📝 Description                      | 🛠 Tech Used          |
+|------------|-----------------------------------|----------------------|
+| 🎮 [BizFlow Project](https://github.com/harshitkumargupta/Bizflow-Project) | Business Management App             | Java, MySQL            |
+| 📱 Healthy Habit Tracker | Android App for daily habits & mood | Java, SQLite           |
+| 🌐 3D Portfolio Website | Interactive portfolio with React + Three.js | React, Three.js        |
+| 🤖 CodeMate | Gamified platform – Duolingo for Coding | Java, Flutter          |
 
 ---
 
