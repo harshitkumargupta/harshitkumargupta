@@ -1,10 +1,10 @@
-<!-- Header banner -->
+<!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=220&section=header&text=Harshit%20Kumar%20Gupta&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20Full-Stack%20Developer&descSize=20&descAlignY=58" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F7FF,50:7B2FF7,100:FF00C8&height=260&section=header&text=HARSHIT%20KUMAR%20GUPTA&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Android%20%E2%80%A2%20Full-Stack&descSize=18&descAlignY=62" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+clean%2C+scalable+software;Java+%7C+Spring+Boot+%7C+React;Final-Year+CSE+Student+%40+VIT+Bhopal;Open+to+Java+%2F+Full-Stack+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00F7FF&background=00000000&center=true&vCenter=true&width=820&lines=%3E+initializing+developer.profile...;%3E+Java+Full-Stack+Developer;%3E+Android+App+Developer;%3E+Spring+Boot+%7C+REST+APIs+%7C+React;%3E+Final-Year+CSE+%40+VIT+Bhopal;%3E+status%3A+OPEN_TO_WORK+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,33 +14,52 @@
   <img src="https://komarev.com/ghpvc/?username=harshitkumargupta&label=Profile%20Views&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-FF00C8?style=flat-square"/>
+</p>
 
-## 👨‍💻 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## `>_ whoami`
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%">
 
-- 🎓 Final-year **B.Tech CSE** student at **VIT Bhopal University**
-- 💼 Software Engineering Intern at **Coding Samurai**
-- ☕ Specializing in **Java, Spring Boot, and Full-Stack Development**
-- 🧠 Regular **DSA** practice on **HackerRank** and **GeeksforGeeks**
+- 🎓 Final-year **B.Tech CSE** at **VIT Bhopal University**
+- 💼 **Software Engineering Intern** at **Coding Samurai**
+- ☕ Building robust **Java + Spring Boot** backends and REST APIs
+- 📱 Crafting **Android apps** with Java, XML layouts and SQLite
+- 🌐 Full-stack builds with **React** on the front end
+- 🧠 Daily **DSA** grind on HackerRank and GeeksforGeeks
 - 🌍 **Hacktoberfest** participant and open-source contributor
-- 🎯 Actively seeking **Java Developer / Java Full-Stack Developer** roles
-- ⚡ I turn messy requirements into clean, working systems
+- 🎯 Actively seeking **Java Developer / Java Full-Stack / Android** roles
 
 </td>
-<td width="40%" align="center">
+<td width="42%">
 
 ```java
 public class Harshit {
-    String role  = "Java Full-Stack Dev";
-    String focus = "Backend + DSA";
+
+    String[] roles = {
+        "Java Full-Stack Dev",
+        "Android Developer"
+    };
+
+    String[] stack = {
+        "Java", "Spring Boot",
+        "Android", "React", "MySQL"
+    };
+
     boolean openToWork = true;
 
-    void code() {
-        while (alive) {
+    void run() {
+        while (true) {
             learn();
             build();
             ship();
@@ -53,75 +72,84 @@ public class Harshit {
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
+## `>_ tech.stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,react,nodejs,mysql,sqlite,git,github,linux&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,androidstudio,kotlin,python,js,react,nodejs,html,css,mysql,sqlite,git,github,linux,idea&theme=dark" alt="Skills"/>
 </p>
 
-| Category | Technologies |
+| 🧩 Layer | ⚙️ Technologies |
 | :--- | :--- |
 | **Languages** | Java, Python, JavaScript, SQL |
 | **Backend** | Spring Boot, REST APIs, Node.js |
+| **Android** | Android Studio, Android SDK, XML layouts, SQLite |
 | **Frontend** | React, HTML5, CSS3 |
 | **Databases** | MySQL, SQLite |
-| **Tools & Practices** | Git, GitHub, Linux, Agile/Scrum |
+| **Tools** | Git, GitHub, Linux, IntelliJ IDEA, Agile/Scrum |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Featured Projects
+## `>_ projects.load()`
 
-| Project | Description | Stack | Status |
-| :--- | :--- | :--- | :---: |
-| ⚔️ **[CodeArena](#)** | Online judge platform with an AI tutor and live contests | `Java` `Spring Boot` | 🚧 Building |
-| 🛡️ **[SentinelAI](#)** | AI-powered mini SOC platform for security monitoring (team capstone) | `Spring Boot` `React` `Three.js` | 🚧 Building |
-| ⚡ **[BizFlow](https://github.com/harshitkumargupta/Bizflow-Project)** | Business analytics and management system streamlining operational workflows | `Java` `MySQL` | ✅ Done |
-| 📱 **[VitalVision](https://github.com/harshitkumargupta/Vital-Vision)** | Android app for daily habit and wellness tracking | `Java` `SQLite` | ✅ Done |
-| 💬 **[iChat](#)** | Real-time chat application with structured messaging flow | `Java` `Sockets` | ✅ Done |
+| | Project | What it does | Stack | Status |
+| :-: | :--- | :--- | :--- | :-: |
+| ⚔️ | **CodeArena** | Online judge platform with an AI tutor and live contests | `Java` `Spring Boot` | 🚧 Building |
+| 🛡️ | **SentinelAI** | AI-powered mini SOC platform for security monitoring (team capstone) | `Spring Boot` `React` `Three.js` | 🚧 Building |
+| 💸 | **FinFlow** | Finance workflow application | `Java` | ✅ Live |
+| ⚡ | **[BizFlow](https://github.com/harshitkumargupta/Bizflow-Project)** | Business analytics and management system for operational workflows | `Java` `MySQL` | ✅ Done |
+| 📱 | **[VitalVision](https://github.com/harshitkumargupta/Vital-Vision)** | Android app for daily habit and wellness tracking | `Java` `Android` `SQLite` | ✅ Done |
+| 💬 | **iChat** | Real-time chat application with structured messaging flow | `Java` `Sockets` | ✅ Done |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Experience
+## `>_ experience.log`
 
-**Software Engineering Intern** · *Coding Samurai*
-Hands-on software engineering and development work in an Agile, Git-based workflow.
+```text
+[ROLE]     Software Engineering Intern
+[COMPANY]  Coding Samurai
+[WORKFLOW] Agile, Git-based development
+[OUTPUT]   Hands-on software engineering and development work
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🎯 Currently
+## `>_ current.status`
 
-- 🔨 Building **CodeArena** and contributing to the **SentinelAI** capstone
-- 📚 Sharpening DSA for placement season
-- 🌱 Deepening Spring Boot, REST API design, and full-stack architecture
+```text
+██████████░░░░░░░░░░  CodeArena ................ building
+██████████░░░░░░░░░░  SentinelAI capstone ...... building
+████████████████░░░░  DSA for placements ....... grinding
+██████████████░░░░░░  Spring Boot + REST depth . leveling up
+```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## `>_ github.stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumargupta&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitkumargupta&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0D1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitkumargupta&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=harshitkumargupta&theme=synthwave&hide_border=true&background=0D1117" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitkumargupta&theme=react-dark&hide_border=true&area=true&color=00F7FF&line=7B2FF7&point=FF00C8" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitkumargupta&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitkumargupta&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📫 Let's Connect
+## `>_ connect()`
 
-Open to internships and full-time roles in Java backend and full-stack development.
+Open to internships and full-time roles in **Java backend**, **full-stack** and **Android** development.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/harshit-kumar-067899299/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -131,5 +159,5 @@ Open to internships and full-time roles in Java backend and full-stack developme
 <p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=120&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00C8,50:7B2FF7,100:00F7FF&height=140&section=footer" alt="Footer" />
 </p>
